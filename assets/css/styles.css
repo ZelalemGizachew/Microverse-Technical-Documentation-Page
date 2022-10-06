@@ -3,7 +3,7 @@ body {
     box-sizing: border-box;
     font-family: 'Open Sans', Arial, sans-serif;
     line-height: 1.7;
-    background-color: rgb(176, 248, 224);
+    background-color: rgb(251, 255, 235);
 }
 header {
     color: red;
@@ -36,7 +36,7 @@ code {
     white-space: pre-line;
     position: relative;
     line-height: 1;
-    background-color: #ffebeb;
+    background-color: #fff7f7;
     padding: 10px;
     margin: 10px;
     border-radius: 5px;
